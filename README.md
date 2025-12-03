@@ -1,6 +1,7 @@
 # 🎬 Movie Watchlist Web App
 
-A full-stack **MERN** application that allows users to explore, save, and manage their favorite movies. Features secure authentication, personalized watchlists, and a modern, responsive frontend.
+A full-stack **MERN** application that allows users to explore, save, and manage their favorite movies. 
+Features secure authentication, personalized watchlists, and a modern, responsive frontend.
 <img width="453" height="462" alt="Screenshot 2025-11-12 at 1 12 02 AM" src="https://github.com/user-attachments/assets/653ca27f-96cd-4cc5-ba95-826ab6bbf281" />
 
 ---
