@@ -23,7 +23,7 @@ Features secure authentication, personalized watchlists, and a modern, responsiv
 |--------|---------------|
 | **Frontend** | React, CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB (via Mongoose) |
+| **Database** | MongoDB (Mongoose) |
 | **Auth** | JWT, Passport.js |
 | **API** | REST |
 | **Deployment** | Render / Vercel / MongoDB Atlas |
