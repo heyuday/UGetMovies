@@ -6,7 +6,7 @@ Features secure authentication, personalized watchlists, and a modern, responsiv
 
 ---
 
-## 🚀 Features
+## Features
 
 - **User Authentication** — Secure login/signup with JWT and Passport.js  
 - **Personal Watchlists** — Add or remove movies dynamically  
@@ -17,7 +17,7 @@ Features secure authentication, personalized watchlists, and a modern, responsiv
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |--------|---------------|
